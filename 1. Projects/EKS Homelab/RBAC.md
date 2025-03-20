@@ -1,0 +1,4 @@
+- AWS SSO Roles with Access Entries
+- Pod Identity Agent for Non Fargate Service Accounts
+- IRSA for Fargate Service Accounts
+- 

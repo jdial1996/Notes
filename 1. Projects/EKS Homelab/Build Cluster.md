@@ -1,0 +1,3 @@
+- Set up EKS Control Plane
+- Set up worker nodes
+- 
