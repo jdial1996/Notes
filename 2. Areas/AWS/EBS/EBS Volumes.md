@@ -1,0 +1,2 @@
+- GP3 EBS Volumes can only be attached to one instance at a time
+- EBS volumes do not natively support data replication 
