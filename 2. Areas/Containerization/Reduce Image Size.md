@@ -1,0 +1,5 @@
+- Start with slim images instead of larger ones. Eg. Python:3-slim  instead of python:3 
+- Use multi stage builds 
+- Remove unnecessary files with .dockerignore
+- Clean up after installing packages .  eg . use --no-cache-dir with pip.  No point in cachinig since containers are ephemeral 
+- Use specific copy instructions instead of copying everything 

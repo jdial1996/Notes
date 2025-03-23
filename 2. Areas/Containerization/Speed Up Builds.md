@@ -1,0 +1,6 @@
+- Layer Caching 
+- Image Size 
+- Docker buildx
+- .dockerignore to exlucde unecessary files
+- Pin dependency versions
+- 
