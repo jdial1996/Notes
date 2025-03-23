@@ -1,0 +1,3 @@
+- What business problems do I solve? 
+	- How do my solutions ensure business continuity at scale? 
+- What is my ideal customer profile? 
