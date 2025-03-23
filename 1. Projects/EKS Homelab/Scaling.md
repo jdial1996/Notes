@@ -1,2 +1,0 @@
-- Cluster Scaling 
-- Pod Scaling
