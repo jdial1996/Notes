@@ -4,4 +4,7 @@
 
 - When there are unschedulable pods and no available capacity in the cluster, the Cluster Autoscaler will scale an autoscaling group associated with an existing nodegroup. 
 
+**Scaling Down**
+- Cluster autoscaler will scale down nodes once they have been unavailable for a minimum amount of time.  The default is 10 minutes but this can be controlled through `--scale-down-delay-after-add` parameter.
+
 [[Autoscaling Groups]]
