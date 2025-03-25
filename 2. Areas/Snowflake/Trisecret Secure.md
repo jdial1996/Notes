@@ -1,0 +1,3 @@
+- In addition to using their own keys for data encryption, with TriSecret secure they use a key we provide as well (kms) in order to encrypt data. 
+- This risk is that if we lose the Key we provide to Snowflake, we lose access to the data 
+- 

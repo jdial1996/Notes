@@ -1,0 +1,1 @@
+- A Dead Letter Queue is where messages that can't be successfully processed (after a specific number of retries) are sent.  They help isolate problem messages so that they don't clog up your main queue. 
