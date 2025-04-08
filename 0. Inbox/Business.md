@@ -7,3 +7,4 @@
 - What is my ideal customer profile? 
 	- Startups? Enterprise? 
 	- 
+![[Pasted image 20250330214806.png]]

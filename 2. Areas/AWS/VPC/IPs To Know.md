@@ -1,0 +1,3 @@
+- 169.254.169.254 is a reserved IP address for the instance metadata service.
+- 169.254.169.253 and VPCCIDR + 2 are  reserved IP addresses for the default Route53 Resolver. 
+- 

@@ -1,0 +1,5 @@
+-  DHCP option sets assign IP addresses and other network settings to instances within your VPC
+- **Key Customisable Options include:**
+	- DNS Servers: Specify custom DNS servers instead of the AWS default one
+	- Domain Name: Define a domain name to help resolve hostnames in our VPC 
+	- NTP Servers: set up NTP servers for time synchronisation 
